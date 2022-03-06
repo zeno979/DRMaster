@@ -1,0 +1,16 @@
+Bill of Materials:
+
+Arduino Uno : Arduino Uno   
+AudioOut-131 : Buzzer 5V
+BJT-91 : BC337
+BJT-99 : BC337
+Diode-108 : 1N4001
+Diode-109 : !N4001
+Hd44780-1 : Hd44780 Display
+KeyPad-3 : Matrix KeyPad 
+RelaySPST-92 : RelaySPST
+RelaySPST-98 : RelaySPST
+Resistor-138 : Resistor 4.7 kΩ
+Resistor-83 : Resistor 1 kΩ
+Resistor-84 : Resistor 1 kΩ
+DS18B20: DS18B20 Sensor
